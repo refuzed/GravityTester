@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityTester", "GravityTester\GravityTester\GravityTester.csproj", "{D446B288-286E-4031-9618-7E112BF4D49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformHost", "WinformHost\WinformHost.csproj", "{63B185E2-569E-4B67-8518-268057B6A960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentLibrary", "ContentLibrary\ContentLibrary.csproj", "{96BDE183-4256-4E70-B687-3F5D01B9F379}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Content", "Content\Content.contentproj", "{0AB733E8-79C7-49C7-968B-BFF3FDCF8F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D446B288-286E-4031-9618-7E112BF4D49D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D446B288-286E-4031-9618-7E112BF4D49D}.Debug|x86.ActiveCfg = Debug|x86
+		{D446B288-286E-4031-9618-7E112BF4D49D}.Debug|x86.Build.0 = Debug|x86
+		{D446B288-286E-4031-9618-7E112BF4D49D}.Release|Any CPU.ActiveCfg = Release|x86
+		{D446B288-286E-4031-9618-7E112BF4D49D}.Release|x86.ActiveCfg = Release|x86
+		{D446B288-286E-4031-9618-7E112BF4D49D}.Release|x86.Build.0 = Release|x86
+		{63B185E2-569E-4B67-8518-268057B6A960}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{63B185E2-569E-4B67-8518-268057B6A960}.Debug|x86.ActiveCfg = Debug|x86
+		{63B185E2-569E-4B67-8518-268057B6A960}.Debug|x86.Build.0 = Debug|x86
+		{63B185E2-569E-4B67-8518-268057B6A960}.Release|Any CPU.ActiveCfg = Release|x86
+		{63B185E2-569E-4B67-8518-268057B6A960}.Release|x86.ActiveCfg = Release|x86
+		{63B185E2-569E-4B67-8518-268057B6A960}.Release|x86.Build.0 = Release|x86
+		{96BDE183-4256-4E70-B687-3F5D01B9F379}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{96BDE183-4256-4E70-B687-3F5D01B9F379}.Debug|x86.ActiveCfg = Debug|x86
+		{96BDE183-4256-4E70-B687-3F5D01B9F379}.Debug|x86.Build.0 = Debug|x86
+		{96BDE183-4256-4E70-B687-3F5D01B9F379}.Release|Any CPU.ActiveCfg = Release|x86
+		{96BDE183-4256-4E70-B687-3F5D01B9F379}.Release|x86.ActiveCfg = Release|x86
+		{96BDE183-4256-4E70-B687-3F5D01B9F379}.Release|x86.Build.0 = Release|x86
+		{0AB733E8-79C7-49C7-968B-BFF3FDCF8F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB733E8-79C7-49C7-968B-BFF3FDCF8F5D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0AB733E8-79C7-49C7-968B-BFF3FDCF8F5D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB733E8-79C7-49C7-968B-BFF3FDCF8F5D}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
